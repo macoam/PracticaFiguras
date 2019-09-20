@@ -25,19 +25,19 @@
         <Label Content="área:" HorizontalAlignment="Left" Margin="514,176,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="lblArea2" HorizontalAlignment="Left" Margin="522,207,0,0" TextWrapping="Wrap" Text="0.0" VerticalAlignment="Top"/>
         <Label Content="Círculo:" HorizontalAlignment="Left" Margin="36,252,0,0" VerticalAlignment="Top"/>
-        <Label Content="radio:" HorizontalAlignment="Left" Margin="36,283,0,0" VerticalAlignment="Top"/>
+        <Label Content="radio" HorizontalAlignment="Left" Margin="36,283,0,0" VerticalAlignment="Top"/>
 
         <Button Click="Calcularcirculo_Click" x:Name="calcularcirculo" Content="Calcular" HorizontalAlignment="Left" Margin="394,312,0,0" VerticalAlignment="Top" Width="55"/>
         <Label Content="área:" HorizontalAlignment="Left" Margin="514,283,0,0" VerticalAlignment="Top"/>
         <TextBlock x:Name="lblArea3" HorizontalAlignment="Left" Margin="522,314,0,0" TextWrapping="Wrap" Text="0.0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtNumero1r" HorizontalAlignment="Left" Height="23" Margin="41,97,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtNumero1c" HorizontalAlignment="Left" Height="23" Margin="41,308,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
-        <Label Content="Trapecio" HorizontalAlignment="Left" Margin="36,361,0,0" VerticalAlignment="Top"/>
+        <Label Content="Trapecio:" HorizontalAlignment="Left" Margin="36,361,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtNumero1tra" HorizontalAlignment="Left" Height="23" Margin="41,418,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtNumero2tra" HorizontalAlignment="Left" Height="23" Margin="225,418,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
-        <Label Content="base mayor:" HorizontalAlignment="Left" Margin="36,392,0,0" VerticalAlignment="Top"/>
-        <Label Content="base menor:" HorizontalAlignment="Left" Margin="221,392,0,0" VerticalAlignment="Top"/>
-        <Label Content="altura:" HorizontalAlignment="Left" Margin="36,457,0,0" VerticalAlignment="Top"/>
+        <Label Content="base mayor" HorizontalAlignment="Left" Margin="36,392,0,0" VerticalAlignment="Top"/>
+        <Label Content="base menor" HorizontalAlignment="Left" Margin="221,392,0,0" VerticalAlignment="Top"/>
+        <Label Content="altura" HorizontalAlignment="Left" Margin="36,457,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtNumero3tra" HorizontalAlignment="Left" Height="23" Margin="41,483,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
         <Button Click="Calculartrapecio_Click" x:Name="calculartrapecio" Content="Calcular" HorizontalAlignment="Left" Margin="394,422,0,0" VerticalAlignment="Top" Width="55"/>
         <Label Content="área:" HorizontalAlignment="Left" Margin="510,392,0,0" VerticalAlignment="Top"/>
